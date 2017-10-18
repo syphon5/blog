@@ -1,2 +1,3 @@
-# blog
-Syphon5 Blog
+# Repo for code on Syphon5.com
+
+Various scripts.
