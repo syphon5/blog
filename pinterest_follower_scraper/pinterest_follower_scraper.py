@@ -1,4 +1,5 @@
 # Pinterest Follower Scraper - 20171002 - www.syphon5.com
+# Python 3.5
 
 #Import visualization packages
 import seaborn as sns
